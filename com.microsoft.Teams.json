@@ -1,10 +1,10 @@
 {
     "id": "com.microsoft.Teams",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "22.08",
+    "runtime-version": "23.08",
     "sdk": "org.freedesktop.Sdk",
     "base": "org.electronjs.Electron2.BaseApp",
-    "base-version": "22.08",
+    "base-version": "23.08",
     "command": "teams",
     "tags": [
         "proprietary"
@@ -63,8 +63,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://imagemagick.org/download/releases/ImageMagick-7.0.10-7.tar.xz",
-                    "sha256": "7a0365e20eeef2129cb8ffee1acf1d21cdbc2ea8b57ce2941c6ca0e935d4f843"
+                    "url": "https://imagemagick.org/download/releases/ImageMagick-7.1.1-22.tar.xz",
+                    "sha256": "525101e7e4d6eaff515f6d80641a8e0189498e9c8abf81a85045e6490ec8654d"
                 }
             ]
         },
